@@ -26,13 +26,15 @@ Users should be able to:
 ### Screenshot
 
 ![](src\img\Desktop-Screenshot.PNG)
+
 ![](src\img\Desktop-Active-Screenshot.PNG)
+
 ![](src\img\Mobile-Screenshot.PNG)
 
 ### Links
 
 - Solution URL: [https://miguel-tostado.github.io/3-column-preview-card-component/](https://miguel-tostado.github.io/3-column-preview-card-component/)
-- Live Site URL: [https://codepen.io/Toasty/pen/poRwmBV](https://codepen.io/Toasty/pen/poRwmBV)
+- Live Site URL: [https://vigilant-keller-678d8c.netlify.app/](https://vigilant-keller-678d8c.netlify.app/)
 
 ## My process
 
