@@ -1,5 +1,7 @@
 # Frontend Mentor - 3-column preview card component solution
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85cc009a-520c-4ada-968d-6682cd6a0ed6/deploy-status)](https://app.netlify.com/sites/vigilant-keller-678d8c/deploys)
+
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
