@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![src\img\Desktop-Screenshot.PNG](img\Desktop-Screenshot.PNG)
-![src\img\Desktop-Active-Screenshot.PNG](src\img\Desktop-Active-Screenshot.PNG)
-![(src\img\Mobile-Screenshot.PNG](img\Mobile-Screenshot.PNG)
+![](img\Desktop-Screenshot.PNG)
+![](src\img\Desktop-Active-Screenshot.PNG)
+![](img\Mobile-Screenshot.PNG)
 
 ### Links
 
